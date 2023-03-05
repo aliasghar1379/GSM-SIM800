@@ -1,0 +1,26 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Aliasghar\Documents\Altium\SIM800L\SIM800L\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~31|ReportField=ReportTime~19:16:55|ReportField=ReportDate~2021-08-13|ReportField=ReportDateTime~2021-08-13 19:16:55|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Aliasghar\Documents\Altium\SIM800L\SIM800L\PCB_Project\PCB1.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|20uF|Polar Capacitor|C1|cap 01|Cap-Polar|1
+2|100uF|Polar Capacitor|C2|cap 01|Cap-Polar|1
+3|22pF|Bipolar Capacitor|C3, C5|Cap - 100nF|Cap-Bipolar|2
+4|100n|Bipolar Capacitor|C4|Cap - 100nF|Cap-Bipolar|1
+5|1N4007|DIODE GEN PURP 100V 200MA DO35|D1, D2|DO 35|1N4148|2
+6|LED5MM|LED LIGHTING|D3, D4|LED5MM_YELLOW|LED5MM|2
+7|LED5MM|LED LIGHTING|D5|LED5MM_BLUE|LED5MM|1
+8|Power Jack|Power Jack|J1|Power Jack|Power Jack|1
+9||Single-Pole Dual-Throw Relay|K1|Relay 18.85x15.35x15.70|Relay_SPDT|1
+10|LM2596||LM2596|LM2696|LM2596|1
+11|Header 4|Header, 4-Pin|P1|HDR1X4|Header 4|1
+12|BC547|NPN Transistor|Q1|TO-92 BENT|BC547|1
+13|1K|RES Axial 0.25W|R1, R2, R3, R7|Axial 0_25 W, 0_4 IN LEAD PITCH|RES Axial 0.25W|4
+14|120|RES Axial 0.25W|R4|Axial 0_25 W, 0_4 IN LEAD PITCH|RES Axial 0.25W|1
+15|220|RES Axial 0.25W|R5|Axial 0_25 W, 0_4 IN LEAD PITCH|RES Axial 0.25W|1
+16|100|RES Axial 0.25W|R6|Axial 0_25 W, 0_4 IN LEAD PITCH|RES Axial 0.25W|1
+17|10k|RES Axial 0.25W|R8|Axial 0_25 W, 0_4 IN LEAD PITCH|RES Axial 0.25W|1
+18|Comment||reset|LOGO RESET||1
+19|Switch PB|Push Button Switch|S1|Switch - Push to On|Switch PB|1
+20|sim800l||sim800|PCBComponent_1|sim800l|1
+21|1753437|2 Pitch: 5 mm Color: green Contact surface: Tin Assembly|SPK1|MSTBV 2,5/2-G-5|CON_Phoenix_MSTBV_02|1
+22|1753453|3 Pitch: 5 mm Color: green Contact surface: Tin Assembly|T1|MSTBV 2,5/3-G-5|CON_Phoenix_MSTBV_03|1
+23|L7805CV|Linear Voltage Regulator IC Positive FIXED|U1|TO-220 AB|L7805CV-Linear Voltage Regulator IC Positive 1 Output 5V 1.5A TO-220AB|1
+24|ATmega8A-PU|8-bit AVR Microcontroller, 8KB Flash, 512 Bytes EEPROM, 1KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|U2|28P3|ATmega8A-PU|1
+25|12.0592 MHz|XTAL Crystal|Y1|CRYSTAL Small|XTAL_Crystal|1
